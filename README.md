@@ -40,7 +40,7 @@ SQLite3<br>
 Jupyter Notebook<br>
 <br><br>
 ***Clone this repository to your local machine.<br>
-Install the required dependencies using pip install -r requirements.txt.<br>
+Install the required dependencies using pip install.<br>
 Explore the Jupyter notebooks in the notebooks directory for step-by-step analysis.<br>***
 ### Conclusion
 This analysis aims to provide valuable insights into mental health perceptions within the tech industry. The findings contribute to understanding the challenges and opportunities for fostering a healthier workplace environment and promoting mental health awareness among tech employees.# Mental-Health-Analysis-using-SQL
